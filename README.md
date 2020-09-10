@@ -16,3 +16,9 @@ During the Saudi Novel Challenge (Rewayatech Hackathon) we attempt to explore an
   4.	Exploratory Data Analysis (vocabulary of most used words using “Word2Vec”, unsupervised analysis using “K-Means” and “PCA”)
   5.	Visualize and analyze the results(t-sne, bar plot) 
 
+# Ref:
+* [Unsupervised Sentiment Analysis] (https://towardsdatascience.com/unsupervised-sentiment-analysis-a38bf1906483)
+* [Implementing Word2Vec with Gensim Library in Python] (https://stackabuse.com/implementing-word2vec-with-gensim-library-in-python/)
+* [How to Develop Word Embeddings in Python with Gensim] (https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
+* [Gensim word2vec python implementation] (https://thinkinfi.com/gensim-word2vec-python-implementation/)
+* [ARBML/ARBML] (https://github.com/ARBML/ARBML)
